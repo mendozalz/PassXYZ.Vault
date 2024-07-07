@@ -2,9 +2,13 @@
 
 | Home                                                                                  <img src="./PassXYZ.Vault/imgReadme/gif-1.gif" alt="animacion del home" /> |
 
+Vista principal                                                                                  <img src="./PassXYZ.Vault/imgReadme/gif-2.gif" alt="animacion del home" /> |
+
+ItemDetails                                                                                  <img src="PassXYZ.Vault\imgReadme\gif-3.gif" alt="animacion del home" /> |
 
 
-## 🚀 Vida y obras de Octavio Marulanda Morales
+
+## 🚀 PassXYZ
 
 Esta no es una Website como mis otros trabajo, en esta oportunidad he creado mi primera aplicación Cross-Platform con .NET MAUI - C#
 
